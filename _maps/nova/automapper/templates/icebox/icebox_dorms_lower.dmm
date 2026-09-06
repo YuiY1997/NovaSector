@@ -115,9 +115,6 @@
 /obj/machinery/door/airlock/maintenance{
 	name = "Bar Maintenance"
 	},
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/mapping_helpers/airlock/unres/delayed{
 	dir = 4
 	},
